@@ -1,0 +1,6 @@
+{
+  "name": "TransPass - Bus Pass Management System",
+  "description": "Comprehensive public transit bus pass management system for commuters, conductors, and transit authorities with digital smart passes, route verification, and pass lifecycle administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
